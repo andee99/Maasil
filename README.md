@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Ce site a été conçu pour MaasilInc, une société offshore basé à Madagascar et aussi dans le monde
+...
